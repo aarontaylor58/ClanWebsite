@@ -1,4 +1,4 @@
-ClanWebsite
+GamingWebsite
 ===========
 
-Gaming Clan Website
+Website for avid gamers!
